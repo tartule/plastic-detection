@@ -1,6 +1,6 @@
 Ces notebooks sont issus d'un projet que j'ai entrepris en deuxiéme année à l'imt atlantique. 
 
-J'ai pu travailler sur la détection de plastique dans les océans à partir d'images satellites dans le cadre d'un projet scolaire, en colaboration avec club IMSAT à l'IMT-ATLANTIQUE. Le but de ce github est de présenté mes résultats, vous trouverez en fichier pdf le résumé de mes démarches. 
+J'ai pu travailler sur la détection de plastique dans les océans à partir d'images satellites dans le cadre d'un projet scolaire, en colaboration avec club IMSAT. Le but de ce github est de présenté mes résultats, vous trouverez en fichier pdf le résumé de mes démarches. 
 
 Notebooks :
 
